@@ -6,7 +6,6 @@ IMPORTANT: As part of the process of creating this booster, developers.redhat.co
 
 == Runing the Booster Locally
 
-To run this booster on your local host:
 
 [source,bash,options="nowrap",subs="attributes+"]
 ----
